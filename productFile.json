@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "643e8b71525659349118bbaa",
+    "name": "Iphone 12",
+    "quantify": 1,
+    "price": 4,
+    "createdAt": "2023-04-18T12:22:09.084Z",
+    "updatedAt": "2023-04-18T12:22:09.084Z",
+    "__v": 0
+  },
+  {
+    "_id": "643e8b71525659349118bbac",
+    "name": "Iphone X",
+    "quantify": 23,
+    "price": 2,
+    "createdAt": "2023-04-18T12:22:09.085Z",
+    "updatedAt": "2023-04-18T12:22:09.085Z",
+    "__v": 0
+  },
+  {
+    "_id": "643e8b71525659349118bba9",
+    "name": "Iphone 13",
+    "quantify": 2,
+    "price": 5,
+    "createdAt": "2023-04-18T12:22:09.084Z",
+    "updatedAt": "2023-04-18T12:22:09.084Z",
+    "__v": 0
+  },
+  {
+    "_id": "643e8b71525659349118bbab",
+    "name": "Iphone 11",
+    "quantify": 30,
+    "price": 3,
+    "createdAt": "2023-04-18T12:22:09.084Z",
+    "updatedAt": "2023-04-18T12:22:09.084Z",
+    "__v": 0
+  },
+  {
+    "_id": "643e8b71525659349118bbad",
+    "name": "Iphone XR",
+    "quantify": 12,
+    "price": 2,
+    "createdAt": "2023-04-18T12:22:09.085Z",
+    "updatedAt": "2023-04-18T12:22:09.085Z",
+    "__v": 0
+  },
+  {
+    "_id": "643e8b71525659349118bbae",
+    "name": "Iphone 8",
+    "quantify": 0,
+    "price": 2,
+    "createdAt": "2023-04-18T12:22:09.085Z",
+    "updatedAt": "2023-04-18T12:22:09.085Z",
+    "__v": 0
+  },
+  {
+    "_id": "643e8b71525659349118bba8",
+    "name": "Iphone 14",
+    "quantify": 3,
+    "price": 6,
+    "createdAt": "2023-04-18T12:22:09.084Z",
+    "updatedAt": "2023-04-18T12:22:09.084Z",
+    "__v": 0
+  },
+  {
+    "_id": "643e8b71525659349118bbaf",
+    "name": "Iphone 7",
+    "quantify": 345,
+    "price": 1,
+    "createdAt": "2023-04-18T12:22:09.085Z",
+    "updatedAt": "2023-04-18T12:22:09.085Z",
+    "__v": 0
+  },
+  {
+    "_id": "643e8b71525659349118bbb0",
+    "name": "Iphone 6",
+    "quantify": 9,
+    "price": 900,
+    "createdAt": "2023-04-18T12:22:09.085Z",
+    "updatedAt": "2023-04-18T12:22:09.085Z",
+    "__v": 0
+  },
+  {
+    "_id": "643e8b71525659349118bbb1",
+    "name": "Iphone 5",
+    "quantify": 87,
+    "price": 600,
+    "createdAt": "2023-04-18T12:22:09.085Z",
+    "updatedAt": "2023-04-18T12:22:09.085Z",
+    "__v": 0
+  }
+]
